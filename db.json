@@ -41,6 +41,36 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "ikram",
+      "image": "https://www.google.com/search?sca_esv=599339112&sxsrf=ACQVn09YnrifXNhOUdqTL8172ybvg9tx1A:1705547111696&q=ramen&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiVsfWN-uWDAxWgMVkFHXwzCjsQ0pQJegQIDBAB&biw=2560&bih=1353&dpr=2#imgrc=DPPPJZb5KLB8nM",
+      "price": "0.1",
+      "id": 8
+    },
+    {
+      "name": "ikram",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.craftycookbook.com%2Ftenderloin-tonkotsu-ramen%2F&psig=AOvVaw1GvQQMyQw_7ZKwXZ38swHD&ust=1705702534886000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODgrp_754MDFQAAAAAdAAAAABAi",
+      "price": "0.02",
+      "id": 9
+    },
+    {
+      "name": "flower",
+      "image": "https://m.media-amazon.com/images/I/71mMuJDf8pL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "price": "0.05",
+      "id": 10
+    },
+    {
+      "name": "Mersulius",
+      "image": "https://cdn.britannica.com/32/201732-050-A537AB51/Leaves-fruits-miracle-fruit-plant.jpg",
+      "price": "25.21",
+      "id": 11
+    },
+    {
+      "name": "Pilea 2",
+      "image": "https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_1280.jpg",
+      "price": "22",
+      "id": 12
     }
   ]
 }
